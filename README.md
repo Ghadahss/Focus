@@ -28,3 +28,9 @@ https://user-images.githubusercontent.com/98335445/212175624-39d79f00-43f1-4476-
 An App that provides a way to all student who wants to accomplish their study tasks that need to be done by making the users manage their study time to be more productive in a short period of time ,and by turning off the internet because it's the first source of distraction.
 
 <img width="1491" alt="Screen Shot 1444-06-19 at 9 27 24 PM" src="https://user-images.githubusercontent.com/98335445/212151731-677f7370-9fb6-4d69-bc28-4c08d1b0ad6c.png">
+
+
+## Developers
+
+#### Ghadah Alzahrani : www.linkedin.com/in/ghadah-alzahrani
+#### Jumanah Almanasif : 

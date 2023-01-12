@@ -13,11 +13,12 @@ A study timer that help all the student specially who has color blind to study m
 
 ## Technologies & Tools
 - SwiftUI
-* Accessibility
+* Accessibility (Color blind)
 + Localization(ar)
 
 ## Demo of our App
 After 1:16 we show the localization(ar) 
+
 
 
 https://user-images.githubusercontent.com/98335445/212175624-39d79f00-43f1-4476-991e-fe33bb6e1dd1.MOV

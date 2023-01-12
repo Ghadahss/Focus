@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  focus
+
+  Created by Ghadah on 16/06/1444 AH.
+  
+*/
+
+
+"New Timer"="New Timer";
+"sec"="Sec";
+"min"="Min";
+"How much you want to study ?"="How much you want to study ?";
+"How much you want the break ?"="How much you want the break ?";
+"Start"="Start";
+"Study"="Study Time";
+"Break"="Break Time";
+"click to start your break"="Click to start your break";
+"click to start study"="Click to start study";
+"Now it's time to focus 📖 ! "="You know you are smart? becouse it's your study time now 📖 ! ";
+"Congrats You completed "="Congrats You completed ";
+"min in study 🤩"=" min in study 🤩";
+"Congrats you finished the 4 stages"="Congrats you finished the 4 stages";
+"start again"="Start again";
+"n"=0;
+
+
+"tips" = "Tips to be more focused 💡";
+"text1" = "1. Prepare your mind and environment";
+"text2" = "2. Turn off the Wifi";
+"text3" = "3. Choose one task to work on";
+"text4" = "4. Set the timer for 25 minutes and begin working";
+"text5" = "5. Take a 5 minute break";
+
+"text6" = "We have 4 stages to study more focused you can set any time you want 😇";
+"text7" = "After you finish all the four stages you can take long break for min and start again 💪🏼";
+
+
+
+

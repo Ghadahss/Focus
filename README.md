@@ -35,4 +35,4 @@ An App that provides a way to all student who wants to accomplish their study ta
 ## Developers
 
 #### Ghadah Alzahrani : www.linkedin.com/in/ghadah-alzahrani
-#### Jumanah Almanasif : linkedin.com/in/jumanh
+#### Jumanah Almanasif : www.linkedin.com/in/jumanh

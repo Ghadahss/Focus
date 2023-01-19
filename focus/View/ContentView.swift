@@ -8,14 +8,10 @@
 import SwiftUI
 
 struct ContentView: View {
+    @EnvironmentObject var timerModel:TimerModel
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
-        }
-        .padding()
+            Home()
+            .environmentObject(timerModel)
     }
 }
 
@@ -24,3 +20,4 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
